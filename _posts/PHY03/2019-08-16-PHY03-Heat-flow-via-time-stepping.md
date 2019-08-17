@@ -23,6 +23,10 @@ List of posts to read before reading this article
 
 ## Heat Flow via Time-Stepping (Leapfrog)
 
+[here is possible to download the file in PDF][1]
+
+[1]:{{ site.url }}/download/file.pdf
+
 ---
 
 ## The Parabolic Heat Equation (Theory)
