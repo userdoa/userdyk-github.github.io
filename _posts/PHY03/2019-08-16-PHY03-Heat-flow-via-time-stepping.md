@@ -25,7 +25,7 @@ List of posts to read before reading this article
 
 [here is possible to download the file in PDF][1]
 
-[1]:{{ site.url }}/download/file.pdf
+[1]:{{ site.url }}/download/file.py
 
 ---
 
